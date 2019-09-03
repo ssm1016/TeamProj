@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>TEMPLATE</title>
 </head>
 <body>
-
+	<h2>템플릿파일입니다</h2>
 </body>
 </html>
